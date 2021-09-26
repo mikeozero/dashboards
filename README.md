@@ -1,2 +1,2 @@
 # dashboards
-reports in various formats
+sample reports in various formats
